@@ -1,26 +1,32 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: About me
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Brett.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="https://bmht.ethz.ch/">Biomedical and Mobile Health Technology Lab</a></p>
+    <p>ETH Zürich</p>
+    <p>Lengghalde 5</p>
+    <p>8008 Zürich</p>
+    <p>Switzerland</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I'm Brett! My research interests are applied control theory, electronics, systems and modelling, wearable technology, and biomedical engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current position is as a Scientific Assistant at ETH Zürich's [BMHT Lab](https://bmht.ethz.ch/). We primarily work on textile sensor technologies with the goals to enable personalized health, guide rehabilitation, and improve athletic performance. Recently, we have developed a new type of [textile strain sensor](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202209321?download=true) that uses an auxetic structure to exceed the theoretical maximum sensitivity for capacitive strain sensors. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my master's degree at the University of British Columbia in the Electrical and Computer Engineering department. My [thesis]({{ '/assets/pdf/thesis-masc.pdf' | relative_url }}) research was on applying control theory to improve performance and stability of sigma-delta modulators as part of the [Digital Health Innovation Lab](https://bcchr.ca/dhil) team.
+
+I previously worked as a software developer at [Lungpacer Medical](https://lungpacer.com/), while it was still a spin-off from Simon Fraser University in Burnaby, B.C., Canada. Lungpacer is an innovative medical device start-up commercializing minimally-invasive diaphragm pacing to improve weaning in mechanically ventilated patients. There I wrote software for experimental data collection and designed algorithms for the control of diaphragm stimulation. I also do some contract work, primarily in signal processing, data analysis, and software development applied to biomedical engineering.
+
+Please enjoy some of my [projects]({{ '/projects/' | relative_url }}), [code]({{ '/repositories/' | relative_url }}), and [publications]({{ '/publications/' | relative_url }}). I also enjoy many outdoors sports such as skiing, mountaineering, fishing, and cycling. I will try to include some of these activities here as well as my other assorted fun projects. I am in the process of writing up more of these, hopefully they can be helpful!

@@ -4,6 +4,11 @@
 
 // Typography
 
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: "lighter";
+}
+
 p,
 h1,
 h2,
@@ -305,7 +310,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {

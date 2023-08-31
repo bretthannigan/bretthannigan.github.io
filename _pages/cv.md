@@ -1,9 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
+long_title: Curriculum Vitae
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: brett-hannigan.pdf
+description: A concise version of my CV. You may also download the PDF version, generated with my convenient <a href="https://github.com/bretthannigan/cv-gen">cv-gen</a> script!
 ---
