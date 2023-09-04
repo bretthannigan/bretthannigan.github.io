@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: This Website
+description: Desiging a personal website.
+img: assets/img/projects/personal-website/thumbnail.jpg
 importance: 3
 category: fun
 ---
