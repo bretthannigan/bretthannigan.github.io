@@ -37,10 +37,10 @@ I first traced the bottom of the FR14 toepiece onto a sheet of graph paper. I th
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.html path="assets/img/posts/2023-10-14-post-anodizing-aluminum-parts/design-1.png" class="img-fluid rounded z-depth-1" zoomable="true" %}
+        {% include figure.html path="assets/img/posts/2023-10-14-post-anodizing-aluminum-parts/design-1.PNG" class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.html path="assets/img/posts/2023-10-14-post-anodizing-aluminum-parts/design-2.jpg" class="img-fluid rounded z-depth-1" zoomable="true" %}
+        {% include figure.html path="assets/img/posts/2023-10-14-post-anodizing-aluminum-parts/design-2.JPG" class="img-fluid rounded z-depth-1" zoomable="true" %}
     </div>
 </div>
 
