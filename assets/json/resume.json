@@ -193,7 +193,15 @@
       ]
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Best Paper",
+      "date": "2023-11-16",
+      "url": "https://e-textilesconference.com/",
+      "awarder": "E-Textiles Conference",
+      "summary": "Awarded best paper presented at the \"5th International Conference on the Challenges, Opportunities, Innovations and Applications in Electronic Textiles\" in Ghent, Belgium."
+    }
+  ],
   "certificates": [],
   "publications": [],
   "skills":
