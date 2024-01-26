@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mountain Photos   of 2021-2022
+title: Mountain Photos of 2021-2022
 date: 2023-09-09 10:18:00-0100
 description: Some of my favourite mountain photos taked during 2022 (and the end of 2021).
 tags: fun skiing mountains
@@ -11,7 +11,7 @@ related_posts: false
 related_publications:
 ---
 
-Here are some of my favourite mountain photos taked during 2022 (and the end of 2021).
+Here are some of my favourite mountain photos taken during 2022 (and the end of 2021).
 
 ## Triftsee
 
