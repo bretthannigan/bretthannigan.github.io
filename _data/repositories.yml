@@ -2,6 +2,8 @@ github_users:
   - bretthannigan
 
 github_repos:
+  - bretthannigan/sensor-readout-board
+  - bretthannigan/distributed-sensing-along-fibres
   - bretthannigan/twister
   - bretthannigan/activ5-app
   - bretthannigan/e-man
